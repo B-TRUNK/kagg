@@ -1,0 +1,18 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+kaggle/
+bin/
+include/
+lib/
+lib64/
+
+
+# Other common stuff
+*.log
+*.sqlite3
+.env
