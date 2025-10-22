@@ -1,0 +1,158 @@
+auto_coverted_vector =  [1. 2. 3.]
+
+str_vector =  ['1.0' '2.0' '3.0']
+
+int_vector =  [1 2 3]
+
+float_vector dimensions =  1
+float_vector shape =  (3,)
+float_vector size =  3
+
+float_vector data type =  float64
+
+full_vector =  [7 7 7 7 7]
+
+2D_matrix = 
+ [[1 2 3]
+ [4 5 6]]
+2D_matrix dimensions =  2
+2D_matrix shape =  (2, 3)
+2D_matrix size =  6
+2D_matrix data type =  int64
+
+3D_tensor = 
+ [[[1 2]
+  [3 4]]
+
+ [[5 6]
+  [7 8]]]
+3D_tensor dimensions =  3
+3D_tensor shape =  (2, 2, 2)
+3D_tensor size =  8
+3D_tensor data type =  int64
+
+zeroes_vector =  [0. 0. 0. 0. 0.]
+
+zeroes_matrix = 
+ [[0. 0. 0. 0.]
+ [0. 0. 0. 0.]
+ [0. 0. 0. 0.]]
+
+ones_vector =  [1. 1. 1. 1. 1.]
+
+ones_matrix = 
+ [[1. 1. 1.]
+ [1. 1. 1.]]
+
+identity_matrix = 
+ [[1. 0. 0. 0.]
+ [0. 1. 0. 0.]
+ [0. 0. 1. 0.]
+ [0. 0. 0. 1.]]
+
+random_vector =  [0.09011634 0.38356756 0.625618   0.19217442 0.39936224]
+
+random_matrix = 
+ [[0.46394586 0.17797494 0.6038016 ]
+ [0.58217681 0.54437693 0.15926549]
+ [0.35126294 0.80602611 0.48213016]]
+
+random_int_vector =  [8 0 7 0 6]
+
+random_int_matrix = 
+ [[0 4 8 2]
+ [6 8 6 1]]
+
+sequence_vector =  [0 2 4 6 8]
+
+linspace_vector =  [0.   0.25 0.5  0.75 1.  ]
+
+reshaped_matrix = 
+ [[0]
+ [2]
+ [4]
+ [6]
+ [8]]
+
+flattened_vector =  [1 2 3 4 5 6]
+
+transposed_matrix = 
+ [[1 4]
+ [2 5]
+ [3 6]]
+
+sliced_vector =  [2. 3.]
+
+sliced_matrix = 
+ [[2 3]
+ [5 6]]
+
+element_3d =  6
+
+bool_indexed_vector =  [2. 3.]
+
+fancy_indexed_vector =  [1. 3.]
+
+a + b =  [5 7 9]
+a - b =  [-3 -3 -3]
+a * b =  [ 4 10 18]
+a / b =  [0.25 0.4  0.5 ]
+
+matrix_product = 
+ [[19 22]
+ [43 50]]
+
+mean =  3.0
+median =  3.0
+std deviation =  1.4142135623730951
+sum =  15
+min =  1
+max =  5
+
+loaded_data =  [1 2 3 4 5]
+
+original_array =  [10  2  3]
+copied_array =  [1 2 3]
+viewed_array =  [10  2  3]
+
+broadcasted_sum = 
+ [[2 3 4]
+ [3 4 5]
+ [4 5 6]]
+
+sine_values =  [0.0000000e+00 1.0000000e+00 1.2246468e-16]
+
+conditional_result =  [-1  0  1  8 10]
+
+stacked_array = 
+ [[1 2 3]
+ [4 5 6]]
+
+split_arrays =  [array([1, 2, 3]), array([4, 5])]
+
+unique_elements =  [1 2 3 4 5]
+
+random_numbers with seed =  [0.37454012 0.95071431 0.73199394]
+
+loaded_arrays array_a =  [1 2 3]
+loaded_arrays array_b =  [4 5 6]
+
+contiguous_array flags = 
+   C_CONTIGUOUS : True
+  F_CONTIGUOUS : False
+  OWNDATA : True
+  WRITEABLE : True
+  ALIGNED : True
+  WRITEBACKIFCOPY : False
+
+
+ix_matrix = 
+ [[1 1]
+ [2 2]]
+
+a = 
+ [[-1.11188012  0.31890218  0.27904129  1.01051528]
+ [-0.58087813 -0.52516981 -0.57138017 -0.92408284]
+ [-2.61254901  0.95036968  0.81644508 -1.523876  ]]
+
+normal_dist_samples =  [-0.42804606 -0.74240684 -0.7033438  -2.13962066 -0.62947496]
